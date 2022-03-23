@@ -4,7 +4,7 @@ This is an algoithmic trading simulation that utilizes moving average stock pric
 
 Installation instructions:
 
-Mac/linux
+linux
 
 *In terminal*
 
@@ -13,6 +13,18 @@ Mac/linux
   3. git clone https://github.com/jakemercure28/algo-trading
   4. python3 main.py
   
+  
+Mac
+  Install xcode command line arguments and homebrew
+    1. xcode-select --install
+    2. /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+
+  Run program
+    1. brew install python3
+    2. git clone https://github.com/jakemercure28/algo-trading
+    3. python3 main.py
+  
+
 Results:
 
 
